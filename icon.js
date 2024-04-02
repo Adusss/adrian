@@ -2,7 +2,7 @@ const testDiv = document.getElementById("icon-img");
 
 const iconimg = [
   {
-    icon_img: "img/.jpg",
+    icon_img: "img/1.jpg",
     icon_num: "1",
   },
   {
@@ -17,7 +17,7 @@ const iconimg = [
   },
   {
     icon_img: "img/4.png",
-    icon_num: "",
+    icon_num: "4",
 
   },
   {
