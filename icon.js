@@ -290,60 +290,60 @@ const iconimg = [
 
 
   
-  {
-    icon_img: "img/51.png",
-    icon_num: "51",
+  // {
+  //   icon_img: "img/51.png",
+  //   icon_num: "51",
 
-  },
-  {
-    icon_img: "img/52.png",
-    icon_num: "52",
+  // },
+  // {
+  //   icon_img: "img/52.png",
+  //   icon_num: "52",
 
-  },
-  {
-    icon_img: "img/53.png",
-    icon_num: "53",
+  // },
+  // {
+  //   icon_img: "img/53.png",
+  //   icon_num: "53",
 
-  },
-  {
-    icon_img: "img/54.png",
-    icon_num: "54",
+  // },
+  // {
+  //   icon_img: "img/54.png",
+  //   icon_num: "54",
 
-  },
-  {
-    icon_img: "img/55.png",
-    icon_num: "55",
+  // },
+  // {
+  //   icon_img: "img/55.png",
+  //   icon_num: "55",
 
-  },
-
-
+  // },
 
 
-  {
-    icon_img: "img/56.png",
-    icon_num: "56",
 
-  },
-  {
-    icon_img: "img/57.png",
-    icon_num: "57",
 
-  },
-  {
-    icon_img: "img/58.png",
-    icon_num: "58",
+  // {
+  //   icon_img: "img/56.png",
+  //   icon_num: "56",
 
-  },
-  {
-    icon_img: "img/59.png",
-    icon_num: "59",
+  // },
+  // {
+  //   icon_img: "img/57.png",
+  //   icon_num: "57",
 
-  },
-  {
-    icon_img: "img/60.png",
-    icon_num: "60",
+  // },
+  // {
+  //   icon_img: "img/58.png",
+  //   icon_num: "58",
 
-  },
+  // },
+  // {
+  //   icon_img: "img/59.png",
+  //   icon_num: "59",
+
+  // },
+  // {
+  //   icon_img: "img/60.png",
+  //   icon_num: "60",
+
+  // },
 
 
 
