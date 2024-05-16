@@ -431,6 +431,95 @@ const iconimg = [
     icon_num: "75",
 
   },
+  
+
+
+
+  {
+    icon_img: "img/76.png",
+    icon_num: "76",
+
+  },
+  {
+    icon_img: "img/77.png",
+    icon_num: "77",
+
+  },
+  {
+    icon_img: "img/78.png",
+    icon_num: "78",
+
+  },
+  {
+    icon_img: "img/79.png",
+    icon_num: "79",
+
+  },
+  {
+    icon_img: "img/80.png",
+    icon_num: "80",
+
+  },
+  
+
+
+
+  {
+    icon_img: "img/81.png",
+    icon_num: "81",
+
+  },
+  {
+    icon_img: "img/82.png",
+    icon_num: "82",
+
+  },
+  {
+    icon_img: "img/83.png",
+    icon_num: "83",
+
+  },
+  {
+    icon_img: "img/84.png",
+    icon_num: "84",
+
+  },
+  {
+    icon_img: "img/85.png",
+    icon_num: "85",
+
+  },
+  
+
+
+
+  {
+    icon_img: "img/86.png",
+    icon_num: "86",
+
+  },
+  {
+    icon_img: "img/87.png",
+    icon_num: "87",
+
+  },
+  {
+    icon_img: "img/88.png",
+    icon_num: "88",
+
+  },
+  {
+    icon_img: "img/89.png",
+    icon_num: "89",
+
+  },
+  {
+    icon_img: "img/90.png",
+    icon_num: "90",
+
+  },
+  
+
 
 
 
