@@ -1,0 +1,173 @@
+[33mcommit 267527ef43e8d52fff1409afa19e006d5ffde80b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Thu May 2 21:02:20 2024 +0000
+
+    added new icon 15,40,53
+
+[33mcommit bbdd41472bc11f46a8e70d7091a34d5cc2d8195c[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Thu May 2 22:46:27 2024 +0200
+
+    Rename 53.jpg to 53.png
+
+[33mcommit 640a447ff0beb63c0afbdcd6c427a9862d079181[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Thu May 2 22:46:12 2024 +0200
+
+    Rename 40.jpg to 40.png
+
+[33mcommit 1889634de2aa7b3b9246f00ec6746e9c6d28411b[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Thu May 2 22:45:17 2024 +0200
+
+    Rename 15.jpg to 15.png
+
+[33mcommit ad4199afa45bb7b066ec10cbb4df0f5c1fbe0c99[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Thu May 2 22:37:31 2024 +0200
+
+    Add files via upload
+
+[33mcommit 6b6645599f3193ae65b9d5022b259d36bf2638a8[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Apr 2 22:27:00 2024 +0200
+
+    Add files via upload
+
+[33mcommit d48fa0f8d5a0b42ebffb417f740f25749ab0e2d2[m
+Merge: ae37301 0f828c9
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Apr 2 22:17:34 2024 +0200
+
+    Merge pull request #2 from Adusss/test
+    
+    Merge pull request #1 from Adusss:main
+
+[33mcommit 0f828c98f5921d7ca63efe073e6cd97772673ed0[m
+Merge: 213360f ae37301
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Apr 2 22:17:13 2024 +0200
+
+    Merge pull request #1 from Adusss:main
+    
+    index.html
+
+[33mcommit ae37301a3c958200a50cd579101280ee18254174[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Apr 2 22:11:25 2024 +0200
+
+    Delete index.html
+
+[33mcommit 00ffb82249ffa083e8bb414c22bfa6f92ab33320[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Apr 2 22:11:18 2024 +0200
+
+    Delete icon.js
+
+[33mcommit bcb4749c69102baf2f4d152ae32ac4c57b08071e[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Apr 2 22:11:09 2024 +0200
+
+    Delete icon.css
+
+[33mcommit bafbd059611ae65b0e2324d2fb2760dc80cac47d[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Apr 2 22:10:51 2024 +0200
+
+    Delete img directory
+
+[33mcommit eb83fe04d3d2ad8a6afefdd269f1be82212ab3ff[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Apr 2 22:08:07 2024 +0200
+
+    Update icon.js
+
+[33mcommit 213360fb039b353ceeabd86575aff3baa990d58b[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Apr 2 19:57:50 2024 +0000
+
+    update 1.1
+
+[33mcommit 898553e0163a875533922c7bd8c0e0aa3eba652f[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Apr 2 19:55:54 2024 +0000
+
+    test
+
+[33mcommit b1e1af9bf38931ada67a92bd211354e851c49dd5[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Sat Mar 30 20:20:32 2024 +0100
+
+    Update and rename icon.html to index.html
+
+[33mcommit b43ecd598508d1d389af1d52d00eef49d5798cd1[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Sat Mar 30 20:17:59 2024 +0100
+
+    Add files via upload
+
+[33mcommit 0da18a1716e2e29b070f406fffe5d7148d4a976a[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Sat Mar 30 20:16:53 2024 +0100
+
+    Delete img directory
+
+[33mcommit 67c8c340c686f71b301c604bba389a1e51396550[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Sat Mar 30 20:16:44 2024 +0100
+
+    Delete icon.css
+
+[33mcommit 30dd0638969ed42608a7836a7e7416025fb53607[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Sat Mar 30 20:16:37 2024 +0100
+
+    Delete icon.js
+
+[33mcommit 37e77c2fae856c9e7959ae13ba2e486d76c811c0[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Sat Mar 30 20:16:29 2024 +0100
+
+    Delete index.html
+
+[33mcommit a0645478fe25c25d0aa9b485b3be0b40b8b740f0[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Mar 26 19:55:44 2024 +0100
+
+    Add files via upload
+
+[33mcommit c6e608de7e1340a84c63b2836a07cf540dec7d05[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Mar 26 19:55:13 2024 +0100
+
+    Delete icon.js
+
+[33mcommit 1b0310fac9df8ca7866b35d845ec978b7bdd8822[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Mar 26 19:55:00 2024 +0100
+
+    Delete icon.html
+
+[33mcommit 8228acf443d7c4ade9bca590fc1b58be6b3272af[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Mar 26 19:54:40 2024 +0100
+
+    Delete icon.css
+
+[33mcommit 5c8d31df0a23a9b82c6a3874b764aee401d4d9e4[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Mar 26 19:51:42 2024 +0100
+
+    Delete onionicon.rar
+
+[33mcommit 611d5b710f7946172228084a05a5c69912e53202[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Mar 26 19:48:30 2024 +0100
+
+    Add files via upload
+
+[33mcommit 7978af940dee0780b06b347bf77edbd93cfb9bb1[m
+Author: Adusss <79541872+Adusss@users.noreply.github.com>
+Date:   Tue Mar 26 19:46:27 2024 +0100
+
+    Add files via upload
