@@ -520,8 +520,33 @@ const iconimg = [
   },
   
 
-//s/
 
+  
+  {
+    icon_img: "img/91.png",
+    icon_num: "91",
+
+  },
+  {
+    icon_img: "img/92.png",
+    icon_num: "92",
+
+  },
+  {
+    icon_img: "img/93.png",
+    icon_num: "93",
+
+  },
+  {
+    icon_img: "img/94.png",
+    icon_num: "94",
+
+  },
+  {
+    icon_img: "img/95.png",
+    icon_num: "95",
+
+  },
 
   
 
