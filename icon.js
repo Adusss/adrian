@@ -399,6 +399,26 @@ const iconimg = [
     icon_img: "img/95.png",
     icon_num: "95",
   },
+  {
+    icon_img: "img/96.png",
+    icon_num: "96",
+  },
+  {
+    icon_img: "img/97.png",
+    icon_num: "97",
+  },
+  {
+    icon_img: "img/98.png",
+    icon_num: "98",
+  },
+  {
+    icon_img: "img/99.png",
+    icon_num: "99",
+  },
+  {
+    icon_img: "img/100.png",
+    icon_num: "100",
+  },
 ];
 
 for (icon of iconimg) {
