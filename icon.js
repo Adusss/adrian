@@ -1,7 +1,7 @@
 const testDiv = document.getElementById("icon-img");
 
 const iconimg = [];
-for (let i = 1; i <= 100; i++) {
+for (let i = 1; i <= 151; i++) {
   iconimg.push({
     icon_img: `img/${i}.png`,
     icon_num: `${i}`,
